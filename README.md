@@ -1,4 +1,4 @@
-# Tailwind-Project
+# ToDekstop-Project
 In this project, I have built a website that showcases the power of Tailwind CSS. I have created a responsive layout, and style elements, and explored some commonly used utility classes in making this website.
 
 # Technologies Used
